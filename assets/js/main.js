@@ -1,4 +1,4 @@
-console.log("ACADEMY OMEN IS COOL");
+
 
 // get element by id message
 const message = document.getElementById("message");
