@@ -8,15 +8,6 @@
 
 - Download and Install the latest Python 3 on your computer. [Install Now](https://www.python.org/downloads/)
 
-- Get the starter files [here](hhttps://github.com/Academy-Omen/tensored-django/tree/starter)
-
-```bash
-# Download the start files or Clone the repository
-git clone https://github.com/Academy-Omen/tensored-django.git
-# switch to the starter branch
-cd tensored-django
-git checkout starter
-```
 
 - Create a virtual environment where all packages will be installed.
 
